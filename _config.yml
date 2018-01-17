@@ -4,7 +4,7 @@ baseurl: "/bits-cpsig"
 
 markdown: kramdown
 
-tracking_id: #
+tracking_id: 11
 
 sass:
     style: compressed
