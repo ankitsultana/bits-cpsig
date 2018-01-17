@@ -1,8 +1,11 @@
-- name: "Contact"
-  link: "contact"
+- name: "Solutions"
+  link: "https://github.com/bk2dcradle/cpsig"
 
-- name: "Resume"
-  link: "resume.pdf"
+- name: "Advanced"
+  link: "advanced"
+
+- name: "Beginners"
+  link: "beginners"
 
 - name: "About"
-  link: "/researcher/"
+  link: "/bits-cpsig/"
