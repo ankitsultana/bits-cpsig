@@ -15,7 +15,8 @@ layout: default
 Lecture 1 will be held on 22 January, 2018 (Monday) from 8:00 pm to 10:00 pm
 at TBD.
 
-**Prerequisites:** [DFS Order](todo). Also, it'd be great if you can go through Vanilla
+**Prerequisites:** [DFS Order](http://codeforces.com/blog/entry/16221) (Refer to
+starting time, finishing time subheading). Also, it'd be great if you can go through Vanilla
 Mo's Algorithm [tutorial](https://www.hackerearth.com/practice/notes/mos-algorithm/) (although it would be covered in the lecture)
 
 **Target:** Three variations of Mo's (Vanilla, with Updates and Trees). We will be
