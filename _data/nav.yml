@@ -4,8 +4,5 @@
 - name: "Advanced"
   link: "advanced"
 
-- name: "Beginners"
-  link: "beginners"
-
 - name: "About"
   link: "/bits-cpsig/"
