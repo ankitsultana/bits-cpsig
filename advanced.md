@@ -13,7 +13,7 @@ layout: default
 ### Lecture 1 (Upcoming)
 
 Lecture 1 will be held on 22 January, 2018 (Monday) from 8:00 pm to 10:00 pm
-at TBD.
+at LTC 5101.
 
 **Prerequisites:** [DFS Order](http://codeforces.com/blog/entry/16221) (Refer to
 starting time, finishing time subheading). Also, it'd be great if you can go through Vanilla
