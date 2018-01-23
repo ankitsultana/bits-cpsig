@@ -10,7 +10,7 @@ layout: default
 
 ## Week 1 (Active)
 
-### Lecture 1 (Upcoming)
+### Lecture 1 (Finished)
 
 Lecture 1 will be held on 22 January, 2018 (Monday) from 8:00 pm to 10:00 pm
 at LTC 5101.
@@ -60,4 +60,23 @@ Here is a list of standard problems involving segment trees:
 [1415 \| LightOJ](http://www.lightoj.com/volume_showproblem.php?problem=1415),
 [1204 \| LightOJ](http://www.lightoj.com/volume_showproblem.php?problem=1204)
 
+**Post Lecture:**
+
+Here are the links for the problems discussed during the lecture:
+[Grid of Many Xors](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/grid-of-many-xors-de84b766/),
+[Segment Tree with GCD](http://codeforces.com/contest/914/problem/D). The problems that we discussed in relation to Mos Algorithm are already present above.
+
+It is recommended that you at least solve DQUERY, COT2 and a few segment tree questions
+before Monday, 29 January 2018, as a contest will be conducted on that day. The contest
+will have both easy and hard problems, so both beginners and advanced students are
+welcome to give it. The announcement for the contest will be made soon.
+
 ---
+
+### Contest 1 (Upcoming)
+
+The first contest of CPSIG will be held on Monday, 29 January 2018. The contest will
+have 6-8 problems, which will range from very easy to medium-hard/hard. The problem set
+should be interesting for students of all levels.
+
+Post this contest, we will also conduct a lecture to discuss the problems of the contest.
