@@ -73,10 +73,22 @@ welcome to give it. The announcement for the contest will be made soon.
 
 ---
 
-### Contest 1 (Upcoming)
+### Long Contest 1 (Upcoming)
 
-The first contest of CPSIG will be held on Monday, 29 January 2018. The contest will
-have 6-8 problems, which will range from very easy to medium-hard/hard. The problem set
-should be interesting for students of all levels.
+**Updated on 27 Jan 2018:** The first long contest will start on Sunday,
+28 January at 9:00 a.m. The contest
+will be open for three days. The problems have been taken from different OJs,
+and mostly concentrate on Segment Trees and Mo's Algorithm. I'd like to thank
+[Pranet Verma](https://www.facebook.com/pranet) for collecting the problems.
 
-Post this contest, we will also conduct a lecture to discuss the problems of the contest.
+A lecture will be conducted to discuss the problems of this contest. Details
+regarding the same will be shared soon.
+
+Here is the contest [link](https://vjudge.net/contest/209797). You will need
+to create an account on vjudge to be able to participate.
+
+---
+
+### Short Contest 1 (Pending)
+
+TBA
