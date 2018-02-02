@@ -73,7 +73,7 @@ welcome to give it. The announcement for the contest will be made soon.
 
 ---
 
-### Long Contest 1 (Upcoming)
+### Long Contest 1 (Finished)
 
 **Updated on 27 Jan 2018:** The first long contest will start on Sunday,
 28 January at 9:00 a.m. The contest
@@ -89,6 +89,9 @@ to create an account on vjudge to be able to participate.
 
 ---
 
-### Short Contest 1 (Pending)
+### Lecture 2 (Upcoming)
 
-TBA
+Lecture 2 will be held on Friday, 02 February from 8:00 p.m to 10:00 p.m. in
+LTC 5101. The agenda will be to discuss the problems from Long Contest #1.
+Anyone who is familiar with Segment Trees should find the class useful. You
+can checkout the problems of the contest [here](https://vjudge.net/contest/209797).
