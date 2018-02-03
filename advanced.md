@@ -8,7 +8,7 @@ layout: default
 
 ---
 
-## Week 1 (Active)
+## Week 1 (Finished)
 
 ### Lecture 1 (Finished)
 
@@ -89,9 +89,18 @@ to create an account on vjudge to be able to participate.
 
 ---
 
-### Lecture 2 (Upcoming)
+### Lecture 2 (Finished)
 
 Lecture 2 will be held on Friday, 02 February from 8:00 p.m to 10:00 p.m. in
 LTC 5101. The agenda will be to discuss the problems from Long Contest #1.
 Anyone who is familiar with Segment Trees should find the class useful. You
 can checkout the problems of the contest [here](https://vjudge.net/contest/209797).
+
+**Post Lecture:**
+
+You can find the solutions to the problems of long contest #1 on the
+[github repo](https://github.com/bk2dcradle/cpsig/). There was an issue
+with the solution of problem C that was discussed in the lecture, this will be
+addressed in the next lecture.
+
+---
