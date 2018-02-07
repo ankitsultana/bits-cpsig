@@ -104,3 +104,32 @@ with the solution of problem C that was discussed in the lecture, this will be
 addressed in the next lecture.
 
 ---
+
+## Week 2 (Finished)
+
+### Lecture 1 (Finished)
+
+**Post Lecture:** We discussed persistent segment trees (PSTs) in the lecture. You can use
+[this blog](https://blog.anudeep2011.com/persistent-segment-trees-explained-with-spoj-problems/)
+to understand PST if you weren't able to attend the class. For those who did, be advised that
+the blog explains in a totally different way compared to the way PSTs were discussed in the lecture.
+
+The problems discussed in the lecture were [MKTHNUM](http://www.spoj.com/problems/MKTHNUM/) and
+[COT](http://www.spoj.com/problems/COT/). Also, for bitset, you can refer to
+[this comment](http://codeforces.com/blog/entry/45576?#comment-302358) which discusses the
+problem that was discussed in the class.
+
+Also, don't forget to think on [CRAYON | SPOJ](http://www.spoj.com/problems/CRAYON/).
+I will discuss it in the next class if needed.
+
+**Note:** Please go through all the problems discussed so far and try to code
+as many as possible. Next long contest is in a week from now, so you should have
+sufficient time to do the same.
+
+---
+
+## Week 3 (Pending)
+
+### Long Contest 2 (Pending)
+
+TBA
