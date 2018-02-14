@@ -9,9 +9,9 @@ Interest Group (Winter/Spring 2018).
 
 **Update 14 February, 2018:**
 
-From now on, a common (for both advanced and beginners) contest will be held on
+From now on, a common (i.e. for both advanced and beginners) contest will be held on
 Saturday/Sunday of every week, consisting
-of 8-10 problems of varying difficulty. The problem set will consist of curated
+of 6-8 problems of varying difficulty. The problem set will consist of curated
 problems that we believe should help students of all levels.
 
 A lecture will be conducted a few days after every contest to discuss the

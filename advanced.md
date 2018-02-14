@@ -4,7 +4,8 @@ layout: default
 
 # Advanced
 
-**Note:** This page will be updated regularly
+**Note:** This page will be updated regularly. Moreover, you can find the source code
+[here](https://github.com/bk2dcradle/cpsig).
 
 ---
 
