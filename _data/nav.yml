@@ -1,5 +1,5 @@
-- name: "Solutions"
-  link: "https://github.com/bk2dcradle/cpsig"
+- name: "Beginners"
+  link: "beginners"
 
 - name: "Advanced"
   link: "advanced"

@@ -7,15 +7,24 @@ layout: default
 This is the top level page for BITS Pilani Competitive Programming Special
 Interest Group (Winter/Spring 2018).
 
-There will only be advanced track this semester. The schedule
-for Advanced track has been posted (it will be updated as we progress through
-the semester).
+**Update 14 February, 2018:**
 
-The lectures will begin from 22 January, 2018. Please
-check the advanced tab on this page for the schedule.
+From now on, a common (for both advanced and beginners) contest will be held on
+Saturday/Sunday of every week, consisting
+of 8-10 problems of varying difficulty. The problem set will consist of curated
+problems that we believe should help students of all levels.
 
-This time the sessions will be more hands on as compared to last semester.
+A lecture will be conducted a few days after every contest to discuss the
+problems of the contest. Some additional concepts may be taught in those lectures
+depending upon how the class proceeds.
 
-We might also conduct frequent contests through the semester. Schedule for them will also
-be posted on the advanced tab on this page. Solutions to some selected
-problems will be posted on [bk2dcradle/cpsig](https://github.com/bk2dcradle/cpsig).
+Moreover, a separate lecture for the Advanced track will be conducted every week.
+
+Please check the [beginners](https://ankitsultana.com/bits-cpsig/beginners) or
+[advanced](https://ankitsultana.com/bits-cpsig/advanced) sections on this website
+for the schedule and announcements.
+
+### Feedback
+
+If you have any feedback regarding the initiative, feel free to mail me at:
+f2014070@pilani.bits-pilani.ac.in
