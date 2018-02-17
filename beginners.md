@@ -31,7 +31,7 @@ shot.
 
 Just create an account on https://vjudge.net to participate.
 
-[Link](https://vjudge.net/contest/212894)
+[Contest Link](https://vjudge.net/contest/212894)
 
 ### Lecture 1 (Upcoming)
 
