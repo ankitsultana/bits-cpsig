@@ -129,8 +129,17 @@ sufficient time to do the same.
 
 ---
 
-## Week 3 (Pending)
+## Week 3 (Upcoming)
 
-### Long Contest 2 (Pending)
+### Long Contest 2 (Upcoming)
 
-TBA
+The second long contest of the season will start tonight, 17 February (Saturday)
+at 9:00 p.m. and will remain open until 18 February (Sunday) 11:00 p.m.
+(Duration: 26 hours).
+
+The problem set is balanced in my opinion, so I encourage everyone to give it a
+shot.
+
+Just create an account on https://vjudge.net to participate.
+
+[Link](https://vjudge.net/contest/212894)
