@@ -131,7 +131,7 @@ sufficient time to do the same.
 
 ## Week 3 (Upcoming)
 
-### Long Contest 2 (Upcoming)
+### Long Contest 2 (Finished)
 
 The second long contest of the season will start tonight, 17 February (Saturday)
 at 9:00 p.m. and will remain open until 18 February (Sunday) 11:00 p.m.

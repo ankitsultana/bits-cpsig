@@ -20,7 +20,7 @@ contest. The lecture may also be used to teach a concept.
 
 ## Week 1 (Upcoming)
 
-### Long Contest 2 (Upcoming)
+### Long Contest 2 (Finished)
 
 The second long contest of the season will start tonight, 17 February (Saturday)
 at 9:00 p.m. and will remain open until 18 February (Sunday) 11:00 p.m.
@@ -36,7 +36,7 @@ Just create an account on https://vjudge.net to participate.
 ### Lecture 1 (Upcoming)
 
 The first lecture for beginners will be held on 19 February 2018 (Monday) from
-8:00 p.m to 10:00 p.m. The agenda will be to discuss the problems from contest 2.
+8:00 p.m to 10:00 p.m. in LTC 5105. The agenda will be to discuss the problems from contest 2.
 I may also teach a few concepts depending upon how the class goes.
 
 I will also take a **survey** on what the expectations of the students are, so the
