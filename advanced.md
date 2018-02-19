@@ -129,7 +129,7 @@ sufficient time to do the same.
 
 ---
 
-## Week 3 (Upcoming)
+## Week 3 (Finished)
 
 ### Long Contest 2 (Finished)
 
@@ -143,3 +143,9 @@ shot.
 Just create an account on https://vjudge.net to participate.
 
 [Contest Link](https://vjudge.net/contest/212894)
+
+---
+
+**Note:** The next lecture will only happen after mid-sems. Till then you are advised to
+go through all the problems listed in this page, and the problems that have already
+been covered in the contest.
