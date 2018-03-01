@@ -149,3 +149,19 @@ Just create an account on https://vjudge.net to participate.
 **Note:** The next lecture will only happen after mid-sems. Till then you are advised to
 go through all the problems listed in this page, and the problems that have already
 been covered in the contest.
+
+---
+
+## Week 4 (Ongoing)
+
+For this week, there won't be any contest/lecture because of midsems. You can try solving
+the given problems till the next lecture/contest:
+
+### Problem Bank
+
+[803G \| CF](http://codeforces.com/contest/803/problem/G),
+[Concerts \| Codeagon](https://www.hackerrank.com/contests/codeagon/challenges/concerts),
+[Kth Number \| MSC2015](https://www.hackerrank.com/contests/morgan-stanley-2015/challenges/wet-shark-and-kth-largest-number)
+
+Also, try and solve as many problems as possible under
+[Orthogonal Range Search](http://lightoj.com/volume_problemcategory.php) on LightOJ.
