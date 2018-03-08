@@ -152,7 +152,7 @@ been covered in the contest.
 
 ---
 
-## Week 4 (Ongoing)
+## Week 4 (Finished)
 
 For this week, there won't be any contest/lecture because of midsems. You can try solving
 the given problems till the next lecture/contest:
@@ -165,3 +165,16 @@ the given problems till the next lecture/contest:
 
 Also, try and solve as many problems as possible under
 [Orthogonal Range Search](http://lightoj.com/volume_problemcategory.php) on LightOJ.
+
+---
+
+## Week 5 (Upcoming)
+
+### Long Contest 3 (Upcoming)
+
+The third long contest of the season will start on 10 March (Saturday) at
+9:00 p.m. and will close at 11:00 p.m. on 11 March (Sunday).
+
+### Lecture 1 (Upcoming)
+
+T.B.A
