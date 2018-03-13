@@ -168,13 +168,21 @@ Also, try and solve as many problems as possible under
 
 ---
 
-## Week 5 (Upcoming)
+## Week 5 (Ongoing)
 
-### Long Contest 3 (Upcoming)
+### Long Contest 3 (Finished)
 
 The third long contest of the season will start on 10 March (Saturday) at
 9:00 p.m. and will close at 11:00 p.m. on 11 March (Sunday).
 
 ### Lecture 1 (Upcoming)
 
-T.B.A
+The next lecture will be held on 16 March (Friday) at 8:00 p.m. in LTC. The
+agenda will be to discuss one (or more) of the following:
+
+1. DSU on Trees
+2. Centroid Decomposition
+3. Heavy Light Decomposition
+4. Discuss previous contest's problems
+
+The exact room number will be updated soon.
