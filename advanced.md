@@ -168,14 +168,14 @@ Also, try and solve as many problems as possible under
 
 ---
 
-## Week 5 (Ongoing)
+## Week 5 (Finished)
 
 ### Long Contest 3 (Finished)
 
 The third long contest of the season will start on 10 March (Saturday) at
 9:00 p.m. and will close at 11:00 p.m. on 11 March (Sunday).
 
-### Lecture 1 (Upcoming)
+### Lecture 1 (Finished)
 
 The next lecture will be held on 16 March (Friday) at 8:00 p.m. in LTC. The
 agenda will be to discuss one (or more) of the following:
@@ -186,3 +186,32 @@ agenda will be to discuss one (or more) of the following:
 4. Discuss previous contest's problems
 
 The exact room number will be updated soon.
+
+**Post Lecture:**
+You can use the following resources to complement what
+was discussed in the class:
+
+* [DSU on Trees Tutorial](http://codeforces.com/blog/entry/44351),
+[Implementation](https://github.com/bk2dcradle/templates/blob/master/dsuontree.cc),
+[Problem discussed in class](http://codeforces.com/contest/600/problem/E)
+* [Centroid Decomposition Tutorial](https://threads-iiith.quora.com/Centroid-Decomposition-of-a-Tree)
+
+We will continue our discussion of centroid decomposition in the next lecture.
+
+---
+
+## Week 6 (Ongoing)
+
+In this week, try to solve as many problems as possible from the contest
+and the following problem
+bank. The next lecture will only be held after a couple of weeks. The plan
+for that will be updated soon.
+
+### Long Contest 4 (Upcoming)
+
+The fourth long contest of the season will start on 17 March (Saturday) at
+9:00 p.m. and will close at 11:00 p.m. on 18 March (Sunday).
+
+### Problem Bank (Upcoming)
+
+Will be updated by 19 March.
