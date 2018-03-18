@@ -207,11 +207,28 @@ and the following problem
 bank. The next lecture will only be held after a couple of weeks. The plan
 for that will be updated soon.
 
-### Long Contest 4 (Upcoming)
+### Long Contest 4 (Finished)
 
 The fourth long contest of the season will start on 17 March (Saturday) at
 9:00 p.m. and will close at 11:00 p.m. on 18 March (Sunday).
 
-### Problem Bank (Upcoming)
+---
 
-Will be updated by 19 March.
+**Note:** For the remainder of the week, try and go through the following
+problems. Moreover, for self study, you can read up on 2-SAT.
+
+---
+
+### Problem Bank (Ongoing)
+
+[375D \| CF](http://codeforces.com/contest/375/problem/D),
+[444C \| CF](http://codeforces.com/problemset/problem/444/C),
+[549F \| CF](http://codeforces.com/contest/375/problem/D)
+
+### Self Study (Ongoing)
+
+* Strongly Connected Components (and condensation graphs)
+* 2-SAT : [Tutorial](http://codeforces.com/blog/entry/16205),
+[228E \| CF](http://codeforces.com/problemset/problem/228/E),
+[27D \| CF](http://codeforces.com/problemset/problem/228/E),
+[TORNJEVI \| SPOJ](http://www.spoj.com/problems/TORNJEVI/)
