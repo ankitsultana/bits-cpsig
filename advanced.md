@@ -200,7 +200,7 @@ We will continue our discussion of centroid decomposition in the next lecture.
 
 ---
 
-## Week 6 (Ongoing)
+## Week 6 (Finished)
 
 In this week, try to solve as many problems as possible from the contest
 and the following problem
@@ -219,16 +219,34 @@ problems. Moreover, for self study, you can read up on 2-SAT.
 
 ---
 
-### Problem Bank (Ongoing)
+### Problem Bank (Finished)
 
 [375D \| CF](http://codeforces.com/contest/375/problem/D),
 [444C \| CF](http://codeforces.com/problemset/problem/444/C),
 [549F \| CF](http://codeforces.com/contest/375/problem/D)
 
-### Self Study (Ongoing)
+### Self Study (Finished)
 
 * Strongly Connected Components (and condensation graphs)
 * 2-SAT : [Tutorial](http://codeforces.com/blog/entry/16205),
 [228E \| CF](http://codeforces.com/problemset/problem/228/E),
 [27D \| CF](http://codeforces.com/problemset/problem/228/E),
 [TORNJEVI \| SPOJ](http://www.spoj.com/problems/TORNJEVI/)
+
+---
+
+## Week 7 (Upcoming)
+
+### Lecture 1 (Upcoming)
+
+Next CPSIG lecture will be held on Thursday, April 12 at 8:00 p.m. in LTC.
+The agenda would be to discuss the following problems:
+
+[Tree and Coprime Queries \| HE](https://www.hackerearth.com/problem/algorithm/tree-and-coprime-queries/)
+[COT2 \| SPOJ](http://www.spoj.com/problems/COT2/),
+[1415 \| LightOJ](http://www.lightoj.com/volume_showproblem.php?problem=1415),
+[1204 \| LightOJ](http://www.lightoj.com/volume_showproblem.php?problem=1204)
+[TORNJEVI \| SPOJ](http://www.spoj.com/problems/TORNJEVI/)
+[549F \| CF](http://codeforces.com/contest/375/problem/D)
+[NAJKRACI \| SPOJ](http://www.spoj.com/problems/NAJKRACI)
+[946G \| CF](http://codeforces.com/contest/946/problem/G)
