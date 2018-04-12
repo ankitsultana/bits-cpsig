@@ -223,7 +223,7 @@ problems. Moreover, for self study, you can read up on 2-SAT.
 
 [375D \| CF](http://codeforces.com/contest/375/problem/D),
 [444C \| CF](http://codeforces.com/problemset/problem/444/C),
-[549F \| CF](http://codeforces.com/contest/375/problem/D)
+[549F \| CF](http://codeforces.com/problemset/problem/549/F)
 
 ### Self Study (Finished)
 
@@ -235,18 +235,20 @@ problems. Moreover, for self study, you can read up on 2-SAT.
 
 ---
 
-## Week 7 (Upcoming)
+## Week 7 (Finished)
 
-### Lecture 1 (Upcoming)
+### Lecture 1 (Finished)
 
 Next CPSIG lecture will be held on Thursday, April 12 at 8:00 p.m. in LTC.
 The agenda would be to discuss the following problems:
 
-[Tree and Coprime Queries \| HE](https://www.hackerearth.com/problem/algorithm/tree-and-coprime-queries/)
+[Tree and Coprime Queries \| HE](https://www.hackerearth.com/problem/algorithm/tree-and-coprime-queries/),
 [COT2 \| SPOJ](http://www.spoj.com/problems/COT2/),
 [1415 \| LightOJ](http://www.lightoj.com/volume_showproblem.php?problem=1415),
-[1204 \| LightOJ](http://www.lightoj.com/volume_showproblem.php?problem=1204)
-[TORNJEVI \| SPOJ](http://www.spoj.com/problems/TORNJEVI/)
-[549F \| CF](http://codeforces.com/contest/375/problem/D)
-[NAJKRACI \| SPOJ](http://www.spoj.com/problems/NAJKRACI)
+[1204 \| LightOJ](http://www.lightoj.com/volume_showproblem.php?problem=1204),
+[TORNJEVI \| SPOJ](http://www.spoj.com/problems/TORNJEVI/),
+[549F \| CF](http://codeforces.com/problemset/problem/549/F)
+[NAJKRACI \| SPOJ](http://www.spoj.com/problems/NAJKRACI),
 [946G \| CF](http://codeforces.com/contest/946/problem/G)
+
+**Errata:** The link for problem 549F on CF was wrong; it has been fixed now.
