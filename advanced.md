@@ -252,3 +252,13 @@ The agenda would be to discuss the following problems:
 [946G \| CF](http://codeforces.com/contest/946/problem/G)
 
 **Errata:** The link for problem 549F on CF was wrong; it has been fixed now.
+
+---
+
+## Week 8 (Ongoing)
+
+### Long Contest 5 (Ongoing)
+
+Long Contest 5 started on 14 April 2018 at 9:00 p.m. The contest will remain
+open for a week. This time most of the problems are tied to a reusable
+concept. Hence, I will share hints for some of the problems here soon.
