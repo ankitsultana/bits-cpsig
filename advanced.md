@@ -262,3 +262,64 @@ The agenda would be to discuss the following problems:
 Long Contest 5 started on 14 April 2018 at 9:00 p.m. The contest will remain
 open for a week. This time most of the problems are tied to a reusable
 concept. Hence, I will share hints for some of the problems here soon.
+
+---
+
+You can find hints for the problems below:
+
+**1. Intro \| [Source](http://www.spoj.com/problems/ZQUERY/)**
+
+Square Root Decomposition.
+
+**2. Show Me Nova \| [Source](http://www.spoj.com/problems/MAXCHILDSUM/)**
+
+Heavy Light Decomposition.
+
+**3. Collision Minds \| [Source](http://www.spoj.com/problems/TTM/en/)**
+
+Range update in Persistent Segment Tree. The key concept here is that there are
+two ways to implement lazy propagation — one involves splitting the node when
+we travel down it so as to propagate the lazy value; the other is to store the
+lazy value in the segment tree node during update, and while querying, pick
+up the lazy values from the nodes as you are descending them and pass it to the
+next recursive call of query via one of its parameters.
+
+**4. He'll Come \| [Source](http://www.spoj.com/problems/SEQ/)**
+
+Matrix Exponentiation. You could refer to this
+[HE tutorial](https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/)
+to learn it.
+
+**5. Boil Over \| [Source](http://www.spoj.com/problems/NICEDAY/)**
+
+Coastline Data Structure. You could refer to
+[this](https://apps.topcoder.com/forums/?module=Thread&threadID=575041&mc=17&view=threaded)
+TopCoder thread to understand it. I had created a sort of template some years
+ago. You can refer to it
+[here](https://github.com/bk2dcradle/templates/blob/master/coastline.cc).
+
+**6. As a Candle Burns Down \| [Source](http://www.spoj.com/problems/PFDEP/en/)**
+
+Topological Sort.
+
+**7. Fractured Misery \| [Source](http://www.spoj.com/problems/METEORS/en/)**
+
+Parallel Binary Search. [Tutorial](http://codeforces.com/blog/entry/45578).
+
+**8. Stay, Resist \| [Source](http://codeforces.com/problemset/problem/228/E)**
+
+2-SAT.
+
+**9. My Recognition \| [Source](http://www.spoj.com/problems/GS/en/)**
+
+Gaussian Elimination or Simulation. This problem will be discussed in an upcoming
+lecture. Although, you should be able to come up with and implement a Gaussian
+Elimination based solution.
+
+**10. Becoming the Maelstorm \| [Source](http://codeforces.com/problemset/problem/643/C)**
+
+Dynamic Programming Optimizations. [Post1](http://codeforces.com/blog/entry/8219).
+
+**11. Without Senses \| [Source](http://codeforces.com/problemset/problem/739/E)**
+
+Lambda Optimization. This will probably be discussed in class.
