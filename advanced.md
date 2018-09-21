@@ -255,9 +255,9 @@ The agenda would be to discuss the following problems:
 
 ---
 
-## Week 8 (Ongoing)
+## Week 8 (Finished)
 
-### Long Contest 5 (Ongoing)
+### Long Contest 5 (Finished)
 
 Long Contest 5 started on 14 April 2018 at 9:00 p.m. The contest will remain
 open for a week. This time most of the problems are tied to a reusable
@@ -323,3 +323,23 @@ Dynamic Programming Optimizations. [Post1](http://codeforces.com/blog/entry/8219
 **11. Without Senses \| [Source](http://codeforces.com/problemset/problem/739/E)**
 
 Lambda Optimization. This will probably be discussed in class.
+
+---
+
+## Further Study
+
+Due to numerous reasons, lectures on FFT and Flows couldn't be held.
+To make up for it, I have provided resources for both of them below:
+
+### FFT
+
+**Tutorials**
+
+* [Erik Demaine \| YouTube](https://www.youtube.com/watch?v=iTMn0Kt18tg),
+[CF Blog \| sidhant](http://codeforces.com/blog/entry/43499)
+
+* [Formal Series \| CF](http://codeforces.com/blog/entry/56422)
+
+### Flows
+
+* Working on a blog post on this
